@@ -4,7 +4,8 @@ An all in one application for e-learning.
 
 ## Getting Started
 
-extract the file mainapp.zip from the repository and thats it.
+This app opens up as dart file.
+just extract the file mainapp.zip from the repository and open it in any IDE containing dart(preferably use Android Studio with dart and flutter plugin).
 
 the project is already almost done and we would be releasing it on 20th July 2020.
 other manuals and biodata files are also uploaded
