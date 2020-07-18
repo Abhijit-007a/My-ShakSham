@@ -1,6 +1,6 @@
 # My ShakSham
 
-A new Flutter application.
+An all in one application for e-learning.
 
 ## Getting Started
 
